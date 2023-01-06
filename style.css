@@ -1,0 +1,26 @@
+* {
+    font-family: Helvetica, sans-serif, "times new roman";
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipe-link {
+    font-weight: bold;
+    background-color: green;
+    font-size: 24px;
+    text-align: center;
+}
+
+.recipe-list {
+    text-align: center;
+}
